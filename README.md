@@ -14,7 +14,7 @@ Genome-scale metabolic model reconstruction of Lucifera butyrica.
 
 | Model | Reactions | Metabolites | Genes | MEMOTE |
 |---------|---------|---------|---------|---------|
-| ModelSEED | 285 | 411 | 69 | 93% |
+| ModelSEED (MS1) | 285 | 411 | 69 | 93% |
 | OMEGGA (MS2) | 364 | 443 | 5051 | 89% |
 
 ## Repository structure
